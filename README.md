@@ -1,5 +1,5 @@
 ### Golden-Eye-CTF <br>
-**Hi, We will solve 'Golden Eye' game. If you download this machine, you can click here --> https://www.vulnhub.com/entry/goldeneye-1,240/**<br>
+**Hi, We will solve 'Golden Eye' game. If you want download this machine, you can click here --> https://www.vulnhub.com/entry/goldeneye-1,240/**<br>
 __________________________________________________________________________________________________________________ <br><br>
 1) I downloaded golden eye machine and installed. I connected it to the same network as my kali machine. And I ran both of them. <br><br>
 2) I write some nmap command because we don't know golden eye's ip. <br><br>
